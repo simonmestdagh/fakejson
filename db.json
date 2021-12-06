@@ -1,0 +1,44 @@
+{
+    "id": "270918480",
+    "name": "boer",
+    "location": "westlekeboarigem",
+    "values": [
+        {
+            "time": "1",
+            "moisture": 
+                    [
+                        {
+                            "value": 123,
+                            "depth": -20
+                        }
+
+                    ],
+                
+            "temperature": {
+                "air": "2",
+                "ground": "3" 
+            },
+            "light": "4",
+            "battery_voltage": "5"
+        },
+        {
+            "time": "2",
+            "moisture": 
+                    [
+                        {
+                            "value": 123,
+                            "depth": -20
+                        }
+
+                    ],
+                
+            "temperature": {
+                "air": "10",
+                "ground": "24" 
+            },
+            "light": "12",
+            "battery_voltage": "303"
+        }
+
+    ]
+}
